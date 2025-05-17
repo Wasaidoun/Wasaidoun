@@ -13,16 +13,14 @@
 I'm a software development student working on real-world projects from inventory systems to web services. I enjoy learning new technologies, solving problems, and building tools that work.
 
 - 🧠 **Currently Learning:**  
-  - JavaFX, Java Enums  
-  - Document automation in Python  
+  - JavaFX, Java, Object-Oriented programming
+  - ASP.NET server-side
   - Full-stack development & PHP/MySQL integration
 
 - 🛠️ **Projects in Progress:**  
-  - Inventory Management System (C#)  
-  - Service Website (HTML/CSS/JavaScript + backend)  
-  - Python automation tools
+  - ASP.NET game tournament manager
 
-- 📫 **Contact:** saidounw@gmail.com  
+- 📫 **Contact:** wasaidoun@gmail.com  
 - 🌐 **GitHub:** [github.com/Wasaidoun](https://github.com/Wasaidoun)
 
 ---
