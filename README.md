@@ -12,16 +12,16 @@
 **Driven by curiosity. Focused on clean, functional code.**  
 I'm a software development student working on real-world projects from inventory systems to web services. I enjoy learning new technologies, solving problems, and building tools that work.
 
-- 🧠 **Currently Learning:**  
+- **Currently Learning:**  
   - JavaFX, Java, Object-Oriented programming
   - ASP.NET server-side
   - Full-stack development & PHP/MySQL integration
 
-- 🛠️ **Projects in Progress:**  
+- 🛠**Projects in Progress:**  
   - ASP.NET game tournament manager
 
-- 📫 **Contact:** wasaidoun@gmail.com  
-- 🌐 **GitHub:** [github.com/Wasaidoun](https://github.com/Wasaidoun)
+- **Contact:** wasaidoun@gmail.com  
+- **GitHub:** [github.com/Wasaidoun](https://github.com/Wasaidoun)
 
 ---
 
