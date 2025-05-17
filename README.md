@@ -17,7 +17,7 @@ I'm a software development student working on real-world projects from inventory
   - ASP.NET server-side
   - Full-stack development & PHP/MySQL integration
 
-- 🛠**Projects in Progress:**  
+- **Projects in Progress:**  
   - ASP.NET game tournament manager
 
 - **Contact:** wasaidoun@gmail.com  
