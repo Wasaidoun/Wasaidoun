@@ -55,8 +55,6 @@ Stores data in text files using OOP, with a simple and functional UI.
 > Responsive website offering services like snow blowing and car detailing.  
 Built with HTML, CSS, JavaScript, and future backend integration planned.
 
-### Document Automation (WIP)
-> Python-based automation tool for generating formatted documents using user input and template merging.
 
 ---
 
