@@ -52,7 +52,7 @@ I'm a software development student working on real-world projects from inventory
 Stores data in text files using OOP, with a simple and functional UI.
 
 ### [Service Website](https://github.com/Wasaidoun/Service-Website)
-> Responsive website offering services like snow blowing and car detailing.  
+> Responsive website selling horse equipment, front-end only
 Built with HTML, CSS, JavaScript, and future backend integration planned.
 
 
